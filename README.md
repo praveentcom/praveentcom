@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/82172535/128063947-e42d300a-235f-4c2a-9051-1c35ed0f72b6.png" alt="Praveen is thinking" width="80"/>
+
 ### 👋 Greetings, I am Praveen Thirumurugan.
 
 Welcome to my profile, it's always nice to have a code companion visiting my home. While you read further, let me introduce myself in a jiffy - my passion for technology is never ending and I love to write code to make things work.
