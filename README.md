@@ -6,7 +6,7 @@ Welcome to my profile, it's always nice to have a code companion visiting my hom
 
 **Skills** - `Angular`, `JavaScript`, `AWS`, `Flutter` and more.
 
-<a href="https://stackoverflow.com/users/16509983/praveen-thirumurugan" target="_blank"><img src="https://stackoverflow.com/users/flair/16509983.png?theme=clean" height="40" alt="profile for Praveen Thirumurugan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Praveen Thirumurugan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/8299776/praveen-thirumurugan" target="_blank"><img src="https://stackoverflow.com/users/flair/8299776.png?theme=clean" height="48" alt="profile for Praveen Thirumurugan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Praveen Thirumurugan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 ---
 <a href="https://youtube.com/c/TheMilesNerd" target="_blank">
   <img src="https://user-images.githubusercontent.com/82172535/128061992-11cd4de6-8cd7-434f-b193-1639a570e248.png" alt="YouTube" width="32"/>
