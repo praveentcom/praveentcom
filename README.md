@@ -1,16 +1,13 @@
 <img src="https://user-images.githubusercontent.com/82172535/128063947-e42d300a-235f-4c2a-9051-1c35ed0f72b6.png" alt="Praveen is thinking" width="80"/>
 
-### 👋 Greetings, I am Praveen Thirumurugan.
+### 👋 Greetings, I am <a href="https://praveent.com">Praveen Thirumurugan</a>.
 
-Welcome to my profile, it's always nice to have a code companion visiting my home. While you read further, let me introduce myself in a jiffy - my passion for technology is never ending and I love to write code to make things work.
+Welcome to my profile, it's always nice to host you in my profile. While you read further, let me introduce myself in a jiffy - my passion for technology is never ending and I write code with an urge to make the world a better place.
 
-**Skills** - `Angular`, `JavaScript`, `AWS`, `Flutter` and more.
+**Skills** - `Angular`, `Node.js`, `AWS`, `MongoDB`, and more.
 
 <a href="https://stackoverflow.com/users/8299776/praveen-thirumurugan" target="_blank"><img src="https://stackoverflow.com/users/flair/8299776.png?theme=clean" height="48" alt="profile for Praveen Thirumurugan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Praveen Thirumurugan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 ---
-<a href="https://youtube.com/c/TheMilesNerd" target="_blank">
-  <img src="https://user-images.githubusercontent.com/82172535/128061992-11cd4de6-8cd7-434f-b193-1639a570e248.png" alt="YouTube" width="32"/>
-</a>
 <a href="https://twitter.com/praveentcom" target="_blank">
   <img src="https://user-images.githubusercontent.com/82172535/128061314-8f44a028-ebab-40c8-a0a4-0e3135fc8441.png" alt="Twitter" width="32"/>
 </a>
